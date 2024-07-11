@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning  python(Flask) <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning  python(Flask) <br>🎯 Fullstack Intern<br>🎲 Fun fact: ...</p>
 
 ###
 
