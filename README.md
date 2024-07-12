@@ -74,10 +74,9 @@
 
 
 <h2 align="left"> Projects:</h2>
-![FLEXZONW GYM](image-1.png)
 <a href="https://app.netlify.com/sites/flexzonegym/overview">flexzone GYM</a>
 <p align="center"></p>
-<img width="70%" src="" alt="ME"/>
+<img width="70%" src="image-1.png" alt="ME"/>
 
 <h2 align="left">GitHub Stats:</h2>
 <p></p>
